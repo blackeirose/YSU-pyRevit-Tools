@@ -1,0 +1,5 @@
+title: Pick Face Material
+tooltip: >-
+  Pick a Revit face, prioritize any Paint override, copy the actual material
+  name to the clipboard, and open the Revit Materials browser.
+author: YSU

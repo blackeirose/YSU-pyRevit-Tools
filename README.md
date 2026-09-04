@@ -9,6 +9,14 @@ linked from the [YSU Tools](https://tools.ycsu.cc/) site.
   tags, and revision definitions from the active project, keeping a single
   blank placeholder revision. Landing page:
   https://tools.ycsu.cc/pyrevit/revisioncleanup/
+- [Pick Face Material](tools/pick-face-material/) — picks a model face,
+  copies its actual (paint-aware) material name to the clipboard, and
+  opens Revit's Materials browser. Landing page:
+  https://tools.ycsu.cc/pyrevit/pickfacematerial/
+- [Sheet / View Tools](tools/sheet-view-tools/) — deletes the sheets
+  selected in the Project Browser plus any views placed only on those
+  sheets, retaining views/legends/schedules shared with other sheets.
+  Landing page: https://tools.ycsu.cc/pyrevit/sheetviewtools/
 
 ## Structure
 
