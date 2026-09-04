@@ -1,0 +1,6 @@
+title: "Purge All\nRevisions"
+tooltip: >-
+  Deletes all Revision Cloud Tags and Revision Clouds across the active project,
+  removes all deletable Revision definitions, and retains the first Revision as
+  a blank placeholder.
+author: YSU
