@@ -26,6 +26,26 @@ The candidate's own README and bundle disclose pending Revit2026 runtime accepta
 
 At preparation time: local packages/reviewer PASS; GitHub public download and HUB/Tracker/MAIN readbacks PENDING. Following publication, append actual download and content results here. HTTP bytes, browser actual download, native Revit execution and role/UI verification are distinct evidence classes.
 
+### Post-publication verification
+
+Source PR2 was merged at `fda39086c0cba127a325ca8fa5136100dc9bb11c`. Three v1.0.1 Releases were published against that source, preserving the old v1.0.0 assets. Separate unauthenticated HTTP requests obtained each complete ZIP, then independently verified the sizes and SHA-256 values above, CRC, every manifest entry and extraction. **Anonymous HTTP download: PASS (3/3).**
+
+The existing Owner/Admin Chrome session also opened each corresponding HUB Detail Launch. Actual new ZIP files were obtained by the browser, then checked independently for the same size, hash, CRC, manifest and extraction. **Owner/Admin Launch and actual browser download: PASS (3/3).** An initial download-event wait timed out; subsequent actual browser files were verified. This does not claim an ordinary Member session or native Revit execution.
+
+The existing green main Bubble and its four children were updated through the normal Owner CMS, retaining all IDs, media/crops, types, parent relations and order. Color Legend remains visibly In Development with no Launch URL. A reviewer caught an inaccurate quantities claim in its short description; the CMS correction now states material swatches and description labels. Server readback and independent review confirm all37 unrelated HUB records and media settings unchanged.
+
+A separate unsigned-in browser opened Sign in to Launch and received the login panel; refreshing retained Guest status. The three new protected Launch URLs are absent from the inspected public HUB catalog, deployed HTML and JavaScript. No existing ordinary Member session is available: **Member flow NOT VERIFIED.**
+
+Desktop,390px and320px Details were inspected; the four tools' names and Input/Output text fit their white frames. The existing390px orbit can place expanded child Bubbles off the left edge: **mobile cluster reachability FAIL**, captured for a separate HUB frontend task. No frontend change is included here.
+
+Tracker production Tasks were updated in the existing BIM/pyRevit classification: three existing records plus one paused Color Legend candidate. Historical Add claims and existing progress/status fields were retained. The editor's automatic sort rewrite was detected and precisely restored using three IDs and expected-value guards, followed by independent readback. All48 unrelated records remain unchanged. No Skills Registry change or Tracker frontend deployment was required.
+
+MAIN was synchronized through the existing registry-ops management API as one aggregated pyRevit product, representing three formal downloads and one candidate. Independent owner/public API readbacks and the formal browser page confirm the entry; all15 existing products are unchanged. No direct database write or MAIN frontend deployment was used.
+
+Source/package and final content snapshot independent review: **PASS**. New native Revit execution and per-version compatibility testing: **NOT VERIFIED**. Color Legend formal release remains **HOLD** until its native candidate acceptance is completed.
+
+Private mappings, download evidence, screenshots, exact before/after field differences and recovery instructions: [HUB publication record](https://github.com/blackeirose/YSU-Architecture-Workflow-Hub/tree/codex/pyrevit-four-tool-sync-20261008/04_Technology/PYREVIT_RELEASES/2026-10-08). The private record is not a public authentication or credential source.
+
 ## Recovery
 
 Old immutable v1.0.0 packages remain the download fallback. Restore only each tool's old link when needed; do not overwrite or remove Release assets. Source recovery reverts this bounded source/documentation commit, without reverting unrelated changes. Never remove the shared installed extension.
