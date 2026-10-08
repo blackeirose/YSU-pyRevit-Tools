@@ -1,32 +1,17 @@
 # YSU pyRevit Tools
 
-Downloadable pyRevit extensions for Revit, published as GitHub Releases and
-linked from the [YSU Tools](https://tools.ycsu.cc/) site.
+可下載的 pyRevit 工具；在共用 YSU Tools.extension 中只安裝或移除目標按鈕。
+Downloadable pyRevit tools. Install/remove only the target button in the shared extension.
 
-## Tools
+| Tool / 工具 | Package | Scope |
+|---|---|---|
+| [修訂清理 / Revision Cleanup](tools/revision-cleanup/) | [v1.0.1](https://github.com/blackeirose/YSU-pyRevit-Tools/releases/tag/revisioncleanup-v1.0.1) | Revision clouds/tags/definitions; retain blank placeholder |
+| [面材質查詢 / Pick Face Material](tools/pick-face-material/) | [v1.0.1](https://github.com/blackeirose/YSU-pyRevit-Tools/releases/tag/pickfacematerial-v1.0.1) | Read face material; copy name; open Materials |
+| [圖紙與視圖刪除 / Delete Sheets + Views](tools/sheet-view-tools/) | [v1.0.1](https://github.com/blackeirose/YSU-pyRevit-Tools/releases/tag/sheetviewtools-v1.0.1) | Delete only; no Add/Create command |
+| [建立色彩圖例 / Create Color Legend](tools/create-color-legend/) | 0.2.0-candidate — no formal ZIP | Native Revit 2026 acceptance pending |
 
-- [Revision Cleanup](tools/revision-cleanup/) — purges revision clouds,
-  tags, and revision definitions from the active project, keeping a single
-  blank placeholder revision. Landing page:
-  https://tools.ycsu.cc/pyrevit/revisioncleanup/
-- [Pick Face Material](tools/pick-face-material/) — picks a model face,
-  copies its actual (paint-aware) material name to the clipboard, and
-  opens Revit's Materials browser. Landing page:
-  https://tools.ycsu.cc/pyrevit/pickfacematerial/
-- [Sheet / View Tools](tools/sheet-view-tools/) — deletes the sheets
-  selected in the Project Browser plus any views placed only on those
-  sheets, retaining views/legends/schedules shared with other sheets.
-  Landing page: https://tools.ycsu.cc/pyrevit/sheetviewtools/
+v1.0.1 fixes bilingual coexistence installation/update/uninstall documentation and adds manifests. Executable files are unchanged from v1.0.0. Original releases remain available. Download/packaging checks are not new Revit functional acceptance or proof of every declared compatible version.
 
-## Structure
+The three historical tools.ycsu.cc/pyrevit landing pages returned 404 on 2026-10-08; this batch uses fixed-version GitHub Release assets. No router change is included. Existing unrelated tools and histories are preserved.
 
-```
-tools/
-  <tool-name>/           source of the packaged pyRevit extension + README
-releases/                notes on published releases (assets live on the
-                          GitHub Releases page, not committed here)
-```
-
-Each tool is released as a standalone `.zip` containing a valid pyRevit
-`.extension` folder plus an installation README, attached to a tagged
-GitHub Release (e.g. `revisioncleanup-v1.0.0`).
+See [publishing contract](PUBLISHING_TEMPLATE.md) and [release evidence](releases/2026-10-08/ACCEPTANCE.md).

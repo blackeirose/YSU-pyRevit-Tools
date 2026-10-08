@@ -1,0 +1,52 @@
+{
+  "version": "0.2.0-candidate",
+  "original_source_commit": "43906e98b14c8c34b3e19954d22b3bd5b8214a43",
+  "formal_release": "HOLD",
+  "files": [
+    {
+      "path": "tools/create-color-legend/YSU Tools.extension/YSU Tools.tab/Materials.panel/Create Color Legend.pushbutton/bundle.yaml",
+      "bytes": 488,
+      "sha256": "9c887da189004e700c9387b571eec03724e554f41791ea08612c6d173e24610b"
+    },
+    {
+      "path": "tools/create-color-legend/YSU Tools.extension/YSU Tools.tab/Materials.panel/Create Color Legend.pushbutton/icon.png",
+      "bytes": 409,
+      "sha256": "8e503785436dd225cca245b6586dc7db11acd128f6e28f85ec9d8254947765a0"
+    },
+    {
+      "path": "tools/create-color-legend/YSU Tools.extension/YSU Tools.tab/Materials.panel/Create Color Legend.pushbutton/legend_core.py",
+      "bytes": 10595,
+      "sha256": "4bcfc45dbdebc298c4e3866ead133f39dd4d6b5cdee5f210d1242115f67a9f48"
+    },
+    {
+      "path": "tools/create-color-legend/YSU Tools.extension/YSU Tools.tab/Materials.panel/Create Color Legend.pushbutton/legend_dependencies.py",
+      "bytes": 6506,
+      "sha256": "9ea11f30023b71ac935366a2df697c0a24f013cda2524a0d80a3e7f5d66da5eb"
+    },
+    {
+      "path": "tools/create-color-legend/YSU Tools.extension/YSU Tools.tab/Materials.panel/Create Color Legend.pushbutton/legend_ids.py",
+      "bytes": 1561,
+      "sha256": "05d6b59e2c2aec80cc9777cb6529e17f99a70d12b0d0aa5cb0123596af4197cb"
+    },
+    {
+      "path": "tools/create-color-legend/YSU Tools.extension/YSU Tools.tab/Materials.panel/Create Color Legend.pushbutton/legend_revit.py",
+      "bytes": 55107,
+      "sha256": "3dc658534967ade4d58e5874b7612ef264edc008e0c1eb9a03fc7036bbc10c66"
+    },
+    {
+      "path": "tools/create-color-legend/YSU Tools.extension/YSU Tools.tab/Materials.panel/Create Color Legend.pushbutton/legend_ui.py",
+      "bytes": 18437,
+      "sha256": "5bb49fb5f92190b29d6d12b3a4c6bce6ddda0b11eb9c5580942a9a11c3d8a480"
+    },
+    {
+      "path": "tools/create-color-legend/YSU Tools.extension/YSU Tools.tab/Materials.panel/Create Color Legend.pushbutton/README.md",
+      "bytes": 4689,
+      "sha256": "e9561517b4cffff88a079d58f0a4989867f8da5403996668cbbdc4978efe6fba"
+    },
+    {
+      "path": "tools/create-color-legend/YSU Tools.extension/YSU Tools.tab/Materials.panel/Create Color Legend.pushbutton/script.py",
+      "bytes": 13189,
+      "sha256": "8ea8949405e31b5025ec7f9ec24d716c32c0cbadb50c610d4e24e7b312088111"
+    }
+  ]
+}

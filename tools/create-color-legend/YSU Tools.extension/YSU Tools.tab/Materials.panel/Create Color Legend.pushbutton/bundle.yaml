@@ -1,0 +1,10 @@
+title: Create Color Legend
+tooltip: >-
+  Create or update a material color legend from a floor plan: Casework / Generic Models
+  (solid face materials), Walls exterior, Floors top and Ceilings bottom construction layer.
+  Pick categories and materials; each legend remembers its own choices.
+  Includes Create Legend, Update Current Legend, and Update All Tool Legends.
+  Local candidate: Revit 2026 runtime acceptance pending.
+author: YSU
+min_revit_version: 2026
+max_revit_version: 2026

@@ -1,0 +1,54 @@
+{
+  "tool": "圖紙與視圖刪除 / Delete Sheets + Views",
+  "version": "1.0.1",
+  "source_base": "77dd904215caead0d153ceaf9cadc63a6a311ddb",
+  "runtime_change": false,
+  "revit_runtime": "NOT_VERIFIED_THIS_RELEASE",
+  "files": [
+    {
+      "path": "README.txt",
+      "bytes": 4890,
+      "sha256": "51fb62201380420e9e3051cd9ed0dad9a6136571f33b100929cde4a7df584666"
+    },
+    {
+      "path": "YSU Tools.extension/extension.json",
+      "bytes": 117,
+      "sha256": "07f4bf5b1aad540cb6d19dd027f3506223ff256bebf4d2b542b3056222be3dea"
+    },
+    {
+      "path": "YSU Tools.extension/lib/__init__.py",
+      "bytes": 26,
+      "sha256": "c8ab4bf0927125f31f4fe73cb95d729fe3ba4a51edd838de3ce6bfd6438a25ba"
+    },
+    {
+      "path": "YSU Tools.extension/lib/ysu_sheets.py",
+      "bytes": 5903,
+      "sha256": "35c4c481e04618b2093bee5144470a51543f8df2a8ca5977443b5e2201e9295c"
+    },
+    {
+      "path": "YSU Tools.extension/YSU Tools.tab/Views & Sheets.panel/Delete Sheets + Views.pushbutton/bundle.yaml",
+      "bytes": 193,
+      "sha256": "3da7293b21360e01bc5eca3cabe9fd26da5117fa65bf59388cb28da585c9d7ab"
+    },
+    {
+      "path": "YSU Tools.extension/YSU Tools.tab/Views & Sheets.panel/Delete Sheets + Views.pushbutton/icon.dark.png",
+      "bytes": 1767,
+      "sha256": "a639700cba6f732f9d256730f74ff960f86926101d9ba4de15ade8fc0a15e458"
+    },
+    {
+      "path": "YSU Tools.extension/YSU Tools.tab/Views & Sheets.panel/Delete Sheets + Views.pushbutton/icon.png",
+      "bytes": 1736,
+      "sha256": "d6829fc2243df00a5df1b6b517d0957da4f05c34caa09ceed85fada01869c35a"
+    },
+    {
+      "path": "YSU Tools.extension/YSU Tools.tab/Views & Sheets.panel/Delete Sheets + Views.pushbutton/icon.svg",
+      "bytes": 602,
+      "sha256": "84dec34f2f58e94b2e964f0325dbf8685c601422109bd16bad45f06aabafe37c"
+    },
+    {
+      "path": "YSU Tools.extension/YSU Tools.tab/Views & Sheets.panel/Delete Sheets + Views.pushbutton/script.py",
+      "bytes": 5198,
+      "sha256": "cce342c696d2b507fb5cb8b0ff35b255c581db0e97a361a28767e1f004220927"
+    }
+  ]
+}

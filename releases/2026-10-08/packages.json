@@ -1,0 +1,111 @@
+[
+  {
+    "tool": "修訂清理 / Revision Cleanup",
+    "folder": "revision-cleanup",
+    "tag": "revisioncleanup-v1.0.1",
+    "file": "YSU-Revision-Cleanup-v1.0.1.zip",
+    "version": "1.0.1",
+    "bytes": 7562,
+    "sha256": "48df7d99448e7d41470565aca5a414815d33cccacceba5bcefcf4edbba9f27a0",
+    "source_base": "77dd904215caead0d153ceaf9cadc63a6a311ddb",
+    "previous": {
+      "tool": "Revision Cleanup v1.0.0",
+      "tag": "revisioncleanup-v1.0.0",
+      "name": "YSU-Revision-Cleanup-v1.0.0.zip",
+      "bytes": 5589,
+      "sha256": "af73cc1fda290ba613f79119ac0fba692da8612f7bfbdfd05971940411c3fd4c",
+      "download_url": "https://github.com/blackeirose/YSU-pyRevit-Tools/releases/download/revisioncleanup-v1.0.0/YSU-Revision-Cleanup-v1.0.0.zip",
+      "release_url": "https://github.com/blackeirose/YSU-pyRevit-Tools/releases/tag/revisioncleanup-v1.0.0",
+      "crc": "PASS",
+      "download": "PASS",
+      "files": [
+        "YSU Tools.extension/YSU Tools.tab/",
+        "YSU Tools.extension/extension.json",
+        "YSU Tools.extension/YSU Tools.tab/Cleanup.panel/",
+        "YSU Tools.extension/YSU Tools.tab/Cleanup.panel/Purge All Revisions.pushbutton/bundle.yaml",
+        "YSU Tools.extension/YSU Tools.tab/Cleanup.panel/Purge All Revisions.pushbutton/icon.png",
+        "YSU Tools.extension/YSU Tools.tab/Cleanup.panel/Purge All Revisions.pushbutton/script.py",
+        "README.txt"
+      ]
+    },
+    "runtime_unchanged": true,
+    "crc": "PASS",
+    "extraction": "PASS",
+    "manifest": "PASS",
+    "url": "https://github.com/blackeirose/YSU-pyRevit-Tools/releases/download/revisioncleanup-v1.0.1/YSU-Revision-Cleanup-v1.0.1.zip"
+  },
+  {
+    "tool": "面材質查詢 / Pick Face Material",
+    "folder": "pick-face-material",
+    "tag": "pickfacematerial-v1.0.1",
+    "file": "YSU-Pick-Face-Material-v1.0.1.zip",
+    "version": "1.0.1",
+    "bytes": 6779,
+    "sha256": "9f4df29a5d10b5300b8536b21d2707d862d6bf654fab764e9dc3d666588ded11",
+    "source_base": "77dd904215caead0d153ceaf9cadc63a6a311ddb",
+    "previous": {
+      "tool": "Pick Face Material v1.0.0",
+      "tag": "pickfacematerial-v1.0.0",
+      "name": "YSU-Pick-Face-Material-v1.0.0.zip",
+      "bytes": 4800,
+      "sha256": "810c7747104089687839dbf7b9ba0a90b714983710c20f8b85c161b3a98183dc",
+      "download_url": "https://github.com/blackeirose/YSU-pyRevit-Tools/releases/download/pickfacematerial-v1.0.0/YSU-Pick-Face-Material-v1.0.0.zip",
+      "release_url": "https://github.com/blackeirose/YSU-pyRevit-Tools/releases/tag/pickfacematerial-v1.0.0",
+      "crc": "PASS",
+      "download": "PASS",
+      "files": [
+        "YSU Tools.extension/YSU Tools.tab/",
+        "YSU Tools.extension/extension.json",
+        "YSU Tools.extension/YSU Tools.tab/Materials.panel/",
+        "YSU Tools.extension/YSU Tools.tab/Materials.panel/Pick Face Material.pushbutton/bundle.yaml",
+        "YSU Tools.extension/YSU Tools.tab/Materials.panel/Pick Face Material.pushbutton/icon.png",
+        "YSU Tools.extension/YSU Tools.tab/Materials.panel/Pick Face Material.pushbutton/script.py",
+        "README.txt"
+      ]
+    },
+    "runtime_unchanged": true,
+    "crc": "PASS",
+    "extraction": "PASS",
+    "manifest": "PASS",
+    "url": "https://github.com/blackeirose/YSU-pyRevit-Tools/releases/download/pickfacematerial-v1.0.1/YSU-Pick-Face-Material-v1.0.1.zip"
+  },
+  {
+    "tool": "圖紙與視圖刪除 / Delete Sheets + Views",
+    "folder": "sheet-view-tools",
+    "tag": "sheetviewtools-v1.0.1",
+    "file": "YSU-Sheet-View-Tools-v1.0.1.zip",
+    "version": "1.0.1",
+    "bytes": 13025,
+    "sha256": "eb99b3bf73549b66df9eed1db88848691dd70766ff7796ddc1b8355f18ada0bb",
+    "source_base": "77dd904215caead0d153ceaf9cadc63a6a311ddb",
+    "previous": {
+      "tool": "Sheet / View Tools v1.0.0",
+      "tag": "sheetviewtools-v1.0.0",
+      "name": "YSU-Sheet-View-Tools-v1.0.0.zip",
+      "bytes": 10876,
+      "sha256": "575ea3b94feba177e17d6b70651c1bd0de3aabe67d8815a3c794ea9e1601afe1",
+      "download_url": "https://github.com/blackeirose/YSU-pyRevit-Tools/releases/download/sheetviewtools-v1.0.0/YSU-Sheet-View-Tools-v1.0.0.zip",
+      "release_url": "https://github.com/blackeirose/YSU-pyRevit-Tools/releases/tag/sheetviewtools-v1.0.0",
+      "crc": "PASS",
+      "download": "PASS",
+      "files": [
+        "YSU Tools.extension/YSU Tools.tab/",
+        "YSU Tools.extension/extension.json",
+        "YSU Tools.extension/lib/__init__.py",
+        "YSU Tools.extension/lib/ysu_sheets.py",
+        "YSU Tools.extension/YSU Tools.tab/Views & Sheets.panel/",
+        "YSU Tools.extension/YSU Tools.tab/Views & Sheets.panel/Delete Sheets + Views.pushbutton/bundle.yaml",
+        "YSU Tools.extension/YSU Tools.tab/Views & Sheets.panel/Delete Sheets + Views.pushbutton/icon.dark.png",
+        "YSU Tools.extension/YSU Tools.tab/Views & Sheets.panel/Delete Sheets + Views.pushbutton/icon.png",
+        "YSU Tools.extension/YSU Tools.tab/Views & Sheets.panel/Delete Sheets + Views.pushbutton/icon.svg",
+        "YSU Tools.extension/YSU Tools.tab/Views & Sheets.panel/Delete Sheets + Views.pushbutton/script.py",
+        "README.txt"
+      ]
+    },
+    "runtime_unchanged": true,
+    "crc": "PASS",
+    "extraction": "PASS",
+    "manifest": "PASS",
+    "url": "https://github.com/blackeirose/YSU-pyRevit-Tools/releases/download/sheetviewtools-v1.0.1/YSU-Sheet-View-Tools-v1.0.1.zip"
+  }
+]
