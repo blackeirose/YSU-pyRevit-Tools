@@ -1,0 +1,34 @@
+{
+  "tool": "面材質查詢 / Pick Face Material",
+  "version": "1.0.1",
+  "source_base": "77dd904215caead0d153ceaf9cadc63a6a311ddb",
+  "runtime_change": false,
+  "revit_runtime": "NOT_VERIFIED_THIS_RELEASE",
+  "files": [
+    {
+      "path": "README.txt",
+      "bytes": 4527,
+      "sha256": "014924bf5c53c402f66cade9739297bad41a1d6496e2fd04ac0a5e5a6d456083"
+    },
+    {
+      "path": "YSU Tools.extension/extension.json",
+      "bytes": 117,
+      "sha256": "07f4bf5b1aad540cb6d19dd027f3506223ff256bebf4d2b542b3056222be3dea"
+    },
+    {
+      "path": "YSU Tools.extension/YSU Tools.tab/Materials.panel/Pick Face Material.pushbutton/bundle.yaml",
+      "bytes": 190,
+      "sha256": "6e07f37a7f13accd14e52f4c7797628c963d4663c4b214522b0c9b26bba4feda"
+    },
+    {
+      "path": "YSU Tools.extension/YSU Tools.tab/Materials.panel/Pick Face Material.pushbutton/icon.png",
+      "bytes": 791,
+      "sha256": "392820fcd880bc0e8fe40536b916603ce88ea455f03d3318628d15a863d5fa33"
+    },
+    {
+      "path": "YSU Tools.extension/YSU Tools.tab/Materials.panel/Pick Face Material.pushbutton/script.py",
+      "bytes": 4641,
+      "sha256": "25cc1663c5a116fe78f901423ab9131a664130fc5c8b01eb3aeec79ac8670193"
+    }
+  ]
+}
